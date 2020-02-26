@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome Redux *](#awesome-redux-)
+- [Awesome Redux ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-redux-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
   - [Redux](#redux)
   - [Documentation of Redux](#documentation-of-redux)
   - [Documentation of Redux(Simplified Chinese version)](#documentation-of-reduxsimplified-chinese-version)
@@ -14,12 +14,13 @@
   - [Documentation of Redux(Portuguese version) (Work in progress)](#documentation-of-reduxportuguese-version-work-in-progress)
   - [Documentation of Redux(Spanish version) (Work in progress)](#documentation-of-reduxspanish-version-work-in-progress)
   - [Documentation of Redux(Korean version)](#documentation-of-reduxkorean-version)
-  - [Documentation of Redux(Sinhala|සිංහල version) (Work in progress)](#documentation-of-reduxsinhala%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD-version-work-in-progress)
-  - [Documentation of Redux(Japanese|日本語 version) (Work in progress)](#documentation-of-reduxjapanese%E6%97%A5%E6%9C%AC%E8%AA%9E-version-work-in-progress)
+  - [Documentation of Redux(Sinhala|සිංහල version) (Work in progress)](#documentation-of-reduxsinhala%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd-version-work-in-progress)
+  - [Documentation of Redux(Japanese|日本語 version) (Work in progress)](#documentation-of-reduxjapanese%e6%97%a5%e6%9c%ac%e8%aa%9e-version-work-in-progress)
   - [Marks](#marks)
     - [Presentations](#presentations)
     - [Resources](#resources)
     - [Articles And Tutorials](#articles-and-tutorials)
+  - [* Redux in Motion](#ul-liredux-in-motionli-ul)
     - [Boilerplate](#boilerplate)
     - [React Native - A framework for building native apps using React](#react-native---a-framework-for-building-native-apps-using-react)
     - [React - A JavaScript library for building user interfaces](#react---a-javascript-library-for-building-user-interfaces)
@@ -475,6 +476,7 @@
     * [**Mirror** - A simple and powerful React framework with minimal API and zero boilerplate](https://github.com/mirrorjs/mirror)
     * [**Rematch** - Redux best practices without the boilerplate](https://github.com/rematch/rematch)
     * [**Easy Peasy** - Easy peasy redux-powered state management](https://github.com/ctrlplusb/easy-peasy)
+    * [**Rechyons** - Make Redux no longer verbose](https://github.com/ZhouHansen/rechyons)
 
 ---
 
